@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit-Katkar
 - 👀 I’m interested in AL/ML
-- 🌱 I’m currently learning in B.tech
+- 🌱 I’m currently pursuing B.tech in AI&DS
 - 💞️ I’m looking to collaborate on ...
 - 📫 message me on katkarrohit23@gmail.com
 
